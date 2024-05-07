@@ -16,8 +16,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/String",
-      "program": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/String/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/linear-list",
+      "program": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/linear-list/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
