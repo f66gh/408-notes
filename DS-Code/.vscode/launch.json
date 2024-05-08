@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/linear-list/2.2.2",
-      "program": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/linear-list/2.2.2/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/2.LinearList/2.3_LinkList/2.3.5_DNode",
+      "program": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/2.LinearList/2.3_LinkList/2.3.5_DNode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
