@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/3_Stack_Queue_Array/3.3_Application_of_Stack_and_Queue",
-      "program": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/3_Stack_Queue_Array/3.3_Application_of_Stack_and_Queue/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/4_String",
+      "program": "c:/Users/Lenovo/Desktop/408-notes/DS-Code/4_String/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
