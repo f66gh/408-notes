@@ -41,3 +41,27 @@ void HalfInsertSort(int A[], int n){
         A[high + 1] = A[0];
     }
 }
+
+
+/**
+ * @brief 希尔排序
+ * 
+ * @param A 
+ * @param n 
+ */
+void Shell_Sort(int A[], int n){
+    // 这里的A[0]是暂存单元
+    int dk, i, j;
+    for(dk = n/2; dk >= 1; i++){
+        // dk是增量
+        for(i = dk + 1; i <= n; i++){
+            if(A[i] < A[i - dk]){
+                A[0] = A[i];
+                for(j = i - dk; j > 0 && A[0] < A[j]; j -= dk){
+                    A[j + dk] = A[j];
+                }
+                A[j + dk] = A[0];
+            }
+        }
+    }
+}

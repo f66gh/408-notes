@@ -5,7 +5,7 @@ int Binary_Search(SSTable L, int key){
     int low = 0;
     int high = L.length() - 1;
     int mid;
-    while(low < high){ // 注意-1+1
+    while(low <= high){ // 注意循环的=，和下面的-1+1
         mid = (low + high) / 2;
         if(key < L[mid]) high = mid - 1;
         if(key > L[mid]) low = mid + 1;
