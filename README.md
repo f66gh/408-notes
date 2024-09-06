@@ -29,9 +29,9 @@
         <td>2</td>
         <td>0</td>
         <td>0</td>
-        <td>6</td>
+        <td bgcolor=#ff8282>6</td>
         <td>0</td>
-        <td>4</td>
+        <td bgcolor=#ffe2e2>4</td>
         <td>3</td>
         <td>0</td>
     </tr>
@@ -45,9 +45,23 @@
         <td>2</td>
         <td>2</td>
         <td>0</td>
-        <td>5</td>
-        <td>6</td>
+        <td bgcolor=#ffe2e2>5</td>
+        <td bgcolor=#ff8282>6</td>
         <td>0</td>
+    </tr>
+	<tr align="middle">
+        <td>2011</td>
+        <td>119</td>
+        <td>24.9.6</td>
+        <td>3h00min</td>
+        <td>0</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>2</td>
+        <td bgcolor=#ff8282>8</td>
+        <td>2</td>
+        <td>2</td>
+        <td bgcolor=#ff8282>6</td>
+        <td bgcolor=#ff8282>7</td>
     </tr>
 </table>
 
