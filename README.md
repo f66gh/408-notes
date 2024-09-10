@@ -77,5 +77,19 @@
         <td>0</td>
         <td>0</td>
     </tr>
+	<tr align="middle">
+        <td>2013</td>
+        <td>113</td>
+        <td>24.9.10</td>
+        <td>2h38min</td>
+        <td>2</td>
+        <td bgcolor=#ff8282>6</td>
+        <td bgcolor=#ff8282>6</td>
+        <td bgcolor=#ff8282>8</td>
+        <td bgcolor=#ffe2e2>5</td>
+        <td bgcolor=#ffe2e2>5</td>
+        <td bgcolor=#ff8282>7</td>
+        <td >2</td>
+    </tr>
 </table>
 
