@@ -91,5 +91,33 @@
         <td bgcolor=#ff8282>7</td>
         <td >2</td>
     </tr>
+	<tr align="middle">
+        <td>2014</td>
+        <td>107</td>
+        <td>24.9.13</td>
+        <td>2h34min</td>
+        <td>2</td>
+        <td bgcolor=#ff8282>6</td>
+        <td>2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td bgcolor=#ff8282>14</td>
+        <td bgcolor=#ff8282>9</td>
+        <td bgcolor=#ff8282>7</td>
+        <td >3</td>
+    </tr>
+	<tr align="middle">
+        <td>2015</td>
+        <td>132</td>
+        <td>24.9.14</td>
+        <td>2h46min</td>
+        <td>0</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td >2</td>
+        <td >0</td>
+        <td >3</td>
+        <td bgcolor=#ff8282>5</td>
+        <td >1</td>
+    </tr>
 </table>
 
