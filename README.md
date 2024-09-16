@@ -119,5 +119,18 @@
         <td bgcolor=#ff8282>5</td>
         <td >1</td>
     </tr>
+	<tr align="middle">
+        <td>2016</td>
+        <td>113</td>
+        <td>24.9.16</td>
+        <td>2h58min</td>
+        <td bgcolor=#ff8282>6</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td bgcolor=#ff8282>6</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td bgcolor=#ff8282>6</td>
+        <td >2</td>
+        <td bgcolor=#ffe2e2>5</td>
+    </tr>
 </table>
-
