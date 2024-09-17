@@ -133,4 +133,20 @@
         <td >2</td>
         <td bgcolor=#ffe2e2>5</td>
     </tr>
+	<tr align="middle">
+        <td>2017</td>
+        <td>123</td>
+        <td>24.9.17</td>
+        <td>2h42min</td>
+        <td bgcolor=#ff8282>6</td>
+        <td bgcolor=#ff8282>6</td>
+        <td >2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td >1</td>
+        <td >1</td>
+        <td bgcolor=#ffe2e2>5</td>
+        <td >2</td>
+    </tr>
 </table>
+
+薄弱点：计网整本重看，信道利用率；计组总线；操作系统文件管理，进程同步，PV操作；数据结构排序，查找
