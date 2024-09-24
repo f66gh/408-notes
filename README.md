@@ -192,11 +192,26 @@
         <td bgcolor=#ff8282>6</td>
         <td bgcolor=#ff8282>9</td>
         <td bgcolor=#ffe2e2>4</td>
-        <td bgcolor=#ffe2e2>6</td>
+        <td bgcolor=#ff8282>6</td>
         <td >0</td>
+    </tr>
+	<tr align="middle">
+        <td>2020</td>
+        <td>99</td>
+        <td>24.9.24</td>
+        <td>2h39min</td>
+        <td bgcolor=#ff8282>8</td>
+        <td >2</td>
+        <td bgcolor=#ff8282>8</td>
+        <td bgcolor=#ff8282>10</td>
+        <td bgcolor=#ff8282>8</td>
+        <td bgcolor=#ff8282>8</td>
+        <td >3</td>
+        <td bgcolor=#ffe2e2>4</td>
     </tr>
 </table>
 
+~~薄弱点：计网整本重看；计组总线，寻址方式；操作系统文件管理，进程同步，PV操作，磁盘操作，银行家算法；数据结构时间复杂度，排序，查找，图~~
 
+**tnnd全重新看吧**，20年给老子做破防了。数据结构做的挺顺的错一堆，nm怎么错得越来越多，忘完了都，计算机网络选择就对了仨，草。大题错的极其均匀，崩完了。
 
-薄弱点：计网整本重看；计组总线，寻址方式；操作系统文件管理，进程同步，PV操作，磁盘操作；数据结构时间复杂度，排序，查找，图
