@@ -226,11 +226,48 @@
         <td >3</td>
     </tr>
 </table>
-
-
 ~~薄弱点：计网整本重看；计组总线，寻址方式；操作系统文件管理，进程同步，PV操作，磁盘操作，银行家算法；数据结构时间复杂度，排序，查找，图~~
 
 **tnnd全重新看吧**，20年给老子做破防了。数据结构做的挺顺的错一堆，nm怎么错得越来越多，忘完了都，计算机网络选择就对了仨，草。大题错的极其均匀，崩完了。
+
+## 408二轮真题记录表
+
+<table>
+    <tr align="middle">
+        <th rowspan=2>年份</th>
+        <th rowspan=2>得分</th>
+        <th rowspan=2>日期</th>
+        <th rowspan=2>用时</th>
+        <th colspan=4>选择</th>
+        <th colspan=4>大题</td>
+    </tr>
+    <tr align="middle">
+        <td>结构</td>
+        <td>计组</td>
+        <td>系统</td>
+        <td>计网</td>
+        <td>结构</td>
+        <td>计组</td>
+        <td>系统</td>
+        <td>计网</td>
+    </tr>
+    <tr align="middle">
+        <td>2009</td>
+        <td>136</td>
+        <td>24.10.28</td>
+        <td>1h44min</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>3</td>
+        <td>3</td>
+    </tr>
+</table>
+
+
 
 ## 10月报名前自测
 
