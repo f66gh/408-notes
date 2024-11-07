@@ -232,6 +232,8 @@
 
 ## 408二轮真题记录表
 
+注：总得分标红的是分比一轮低的年份
+
 <table>
     <tr align="middle">
         <th rowspan=2>年份</th>
@@ -267,7 +269,7 @@
     </tr>
 	<tr align="middle">
         <td>2010</td>
-        <td>127</td>
+        <td bgcolor=#ffe2e2>127</td>
         <td>24.10.30</td>
         <td>2h15min</td>
         <td>0</td>
@@ -293,8 +295,49 @@
         <td bgcolor=#ff8282>6</td>
         <td>2</td>
     </tr>
+	<tr align="middle">
+        <td>2012</td>
+        <td bgcolor=#ffe2e2>133</td>
+        <td>24.11.3</td>
+        <td>2h05min</td>
+        <td bgcolor=#ff8282>6</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+	<tr align="middle">
+        <td>2013</td>
+        <td>133</td>
+        <td>24.11.5</td>
+        <td>1h35min</td>
+        <td >2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>3</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+	<tr align="middle">
+        <td>2014</td>
+        <td>130</td>
+        <td>24.11.7</td>
+        <td>1h51min</td>
+        <td >0</td>
+        <td >2</td>
+        <td>2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>3</td>
+        <td  bgcolor=#ffe2e2>5</td>
+        <td>2</td>
+        <td>2</td>
+    </tr>
 </table>
-
 
 
 
