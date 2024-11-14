@@ -230,118 +230,6 @@
 
 **tnnd全重新看吧**，20年给老子做破防了。数据结构做的挺顺的错一堆，nm怎么错得越来越多，忘完了都，计算机网络选择就对了仨，草。大题错的极其均匀，崩完了。
 
-## 408二轮真题记录表
-
-注：总得分标红的是分比一轮低的年份
-
-<table>
-    <tr align="middle">
-        <th rowspan=2>年份</th>
-        <th rowspan=2>得分</th>
-        <th rowspan=2>日期</th>
-        <th rowspan=2>用时</th>
-        <th colspan=4>选择</th>
-        <th colspan=4>大题</td>
-    </tr>
-    <tr align="middle">
-        <td>结构</td>
-        <td>计组</td>
-        <td>系统</td>
-        <td>计网</td>
-        <td>结构</td>
-        <td>计组</td>
-        <td>系统</td>
-        <td>计网</td>
-    </tr>
-    <tr align="middle">
-        <td>2009</td>
-        <td>136</td>
-        <td>24.10.28</td>
-        <td>1h44min</td>
-        <td>0</td>
-        <td>0</td>
-        <td>2</td>
-        <td>2</td>
-        <td>0</td>
-        <td bgcolor=#ffe2e2>4</td>
-        <td>3</td>
-        <td>3</td>
-    </tr>
-	<tr align="middle">
-        <td>2010</td>
-        <td bgcolor=#ffe2e2>127</td>
-        <td>24.10.30</td>
-        <td>2h15min</td>
-        <td>0</td>
-        <td>0</td>
-        <td>2</td>
-        <td>2</td>
-        <td bgcolor=#ffe2e2>4</td>
-        <td bgcolor=#ff8282>6</td>
-        <td>2</td>
-        <td bgcolor=#ff8282>7</td>
-    </tr>
-	<tr align="middle">
-        <td>2011</td>
-        <td>135</td>
-        <td>24.10.30</td>
-        <td>2h15min</td>
-        <td>0</td>
-        <td>0</td>
-        <td>2</td>
-        <td>0</td>
-        <td>2</td>
-        <td>3</td>
-        <td bgcolor=#ff8282>6</td>
-        <td>2</td>
-    </tr>
-	<tr align="middle">
-        <td>2012</td>
-        <td bgcolor=#ffe2e2>133</td>
-        <td>24.11.3</td>
-        <td>2h05min</td>
-        <td bgcolor=#ff8282>6</td>
-        <td bgcolor=#ffe2e2>4</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>0</td>
-        <td>2</td>
-        <td>0</td>
-    </tr>
-	<tr align="middle">
-        <td>2013</td>
-        <td>133</td>
-        <td>24.11.5</td>
-        <td>1h35min</td>
-        <td >2</td>
-        <td bgcolor=#ffe2e2>4</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-    </tr>
-	<tr align="middle">
-        <td>2014</td>
-        <td>130</td>
-        <td>24.11.7</td>
-        <td>1h51min</td>
-        <td >0</td>
-        <td >2</td>
-        <td>2</td>
-        <td bgcolor=#ffe2e2>4</td>
-        <td>3</td>
-        <td  bgcolor=#ffe2e2>5</td>
-        <td>2</td>
-        <td>2</td>
-    </tr>
-</table>
-
-
-
-
 ## 10月报名前自测
 
 ### 408
@@ -432,6 +320,146 @@
 | 2022 | 58.5 | 10.22 | 2h18min |  3   |  4   |   0    | 4.5  |      |
 |      |      |       |         |      |      |        |      |      |
 |      |      |       |         |      |      |        |      |      |
+
+
+
+## 408二轮真题记录表
+
+注：总得分标红的是分比一轮低的年份
+
+<table>
+    <tr align="middle">
+        <th rowspan=2>年份</th>
+        <th rowspan=2>得分</th>
+        <th rowspan=2>日期</th>
+        <th rowspan=2>用时</th>
+        <th colspan=4>选择</th>
+        <th colspan=4>大题</td>
+    </tr>
+    <tr align="middle">
+        <td>结构</td>
+        <td>计组</td>
+        <td>系统</td>
+        <td>计网</td>
+        <td>结构</td>
+        <td>计组</td>
+        <td>系统</td>
+        <td>计网</td>
+    </tr>
+    <tr align="middle">
+        <td>2009</td>
+        <td>136</td>
+        <td>24.10.28</td>
+        <td>1h44min</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>3</td>
+        <td>3</td>
+    </tr>
+	<tr align="middle">
+        <td>2010</td>
+        <td bgcolor=#ffe2e2>127</td>
+        <td>24.10.30</td>
+        <td>2h15min</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td bgcolor=#ff8282>6</td>
+        <td>2</td>
+        <td bgcolor=#ff8282>7</td>
+    </tr>
+	<tr align="middle">
+        <td>2011</td>
+        <td>135</td>
+        <td>24.11.1</td>
+        <td>2h15min</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+        <td>2</td>
+        <td>3</td>
+        <td bgcolor=#ff8282>6</td>
+        <td>2</td>
+    </tr>
+	<tr align="middle">
+        <td>2012</td>
+        <td bgcolor=#ffe2e2>133</td>
+        <td>24.11.3</td>
+        <td>2h05min</td>
+        <td bgcolor=#ff8282>6</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+	<tr align="middle">
+        <td>2013</td>
+        <td>133</td>
+        <td>24.11.5</td>
+        <td>1h35min</td>
+        <td >2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>3</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+	<tr align="middle">
+        <td>2014</td>
+        <td>130</td>
+        <td>24.11.7</td>
+        <td>1h51min</td>
+        <td >0</td>
+        <td >2</td>
+        <td>2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>3</td>
+        <td  bgcolor=#ffe2e2>5</td>
+        <td>2</td>
+        <td>2</td>
+    </tr>
+	<tr align="middle">
+        <td>2015</td>
+        <td>135</td>
+        <td>24.11.10</td>
+        <td>2h00min</td>
+        <td >2</td>
+        <td >2</td>
+        <td  bgcolor=#ff8282>6</td>
+        <td>2</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+	<tr align="middle">
+        <td>2016</td>
+        <td>130</td>
+        <td>24.11.13</td>
+        <td>2h13min</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td >2</td>
+        <td >2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>0</td>
+        <td bgcolor=#ff8282>6</td>
+        <td>0</td>
+        <td bgcolor=#ffe2e2>4</td>
+    </tr>
+</table>
+
 
 
 
