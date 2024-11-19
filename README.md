@@ -472,7 +472,22 @@
         <td>3</td>
         <td bgcolor=#ffe2e2>4</td>
     </tr>
+	<tr align="middle">
+        <td>2018</td>
+        <td>136</td>
+        <td>24.11.18</td>
+        <td>2h03min</td>
+        <td >0</td>
+        <td >2</td>
+        <td >2</td>
+        <td >0</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>2</td>
+        <td>2</td>
+        <td >2</td>
+    </tr>
 </table>
+
 
 
 
