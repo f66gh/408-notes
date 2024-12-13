@@ -534,6 +534,21 @@
         <td bgcolor=#ffe2e2>5</td>
         <td >3</td>
     </tr>
+	<tr align="middle">
+        <td>2024</td>
+        <td>116</td>
+        <td>24.11.30</td>
+        <td>2h35min</td>
+        <td >2</td>
+        <td >2</td>
+        <td >2</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td bgcolor=#ff8282>10</td>
+        <td bgcolor=#ffe2e2>5</td>
+        <td bgcolor=#ffe2e2>5</td>
+        <td bgcolor=#ffe2e2>4</td>
+    </tr>
 </table>
+
 
 
