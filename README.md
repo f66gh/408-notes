@@ -551,4 +551,74 @@
 </table>
 
 
+## 408三轮真题记录表
+
+注：总得分标红的是分比二轮低的年份
+
+<table>
+    <tr align="middle">
+        <th rowspan=2>年份</th>
+        <th rowspan=2>得分</th>
+        <th rowspan=2>日期</th>
+        <th rowspan=2>用时</th>
+        <th colspan=4>选择</th>
+        <th colspan=4>大题</td>
+    </tr>
+    <tr align="middle">
+        <td>结构</td>
+        <td>计组</td>
+        <td>系统</td>
+        <td>计网</td>
+        <td>结构</td>
+        <td>计组</td>
+        <td>系统</td>
+        <td>计网</td>
+    </tr>
+    <tr align="middle">
+        <td>2009</td>
+        <td >144</td>
+        <td>24.12.14</td>
+        <td>1h10min</td>
+        <td >0</td>
+        <td >0</td>
+        <td >0</td>
+        <td >0</td>
+        <td >0</td>
+        <td bgcolor=#ffe2e2>4</td>
+        <td>2</td>
+        <td >0</td>
+    </tr>
+    <tr align="middle">
+        <td>2021</td>
+        <td bgcolor=#ffe2e2>139</td>
+        <td>24.12.14</td>
+        <td>1h47min</td>
+        <td >0</td>
+        <td >0</td>
+        <td >0</td>
+        <td >2</td>
+        <td bgcolor=#ff8282>6</td>
+        <td>2</td>
+        <td>0</td>
+        <td >1</td>
+    </tr>
+	<tr align="middle">
+        <td>2022</td>
+        <td >143</td>
+        <td>24.12.15</td>
+        <td>1h18min</td>
+        <td >0</td>
+        <td >0</td>
+        <td >0</td>
+        <td >2</td>
+        <td >0</td>
+        <td>1</td>
+        <td bgcolor=#ffe2e2> 4</td>
+        <td >0</td>
+    </tr>
+</table>
+
+
+
+
 
